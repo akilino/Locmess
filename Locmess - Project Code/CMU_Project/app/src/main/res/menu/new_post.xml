@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pt.ulisboa.tecnico.meic.cmu.locmess.post.NewPost">
+
+    <item
+        android:id="@+id/action_create"
+        android:orderInCategory="1"
+        android:title="@string/create"
+        android:theme="@style/MyDarkToolbarStyle"
+        app:showAsAction="always"/>
+
+</menu>
