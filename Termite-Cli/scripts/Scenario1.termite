@@ -1,0 +1,14 @@
+newdevice N1
+newdevice B1
+newdevice B2
+newdevice B3
+assignaddr e1
+binddevice N1 e1
+move N1 (B1)
+commit
+wait 2
+move N1 ()
+commit
+move N1 (B2)
+commit
+
