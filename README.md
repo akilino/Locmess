@@ -1,7 +1,7 @@
 # Locmess
+Instituto Superior Técnico - Alameda
+2016/2017
 Locmess - Android Project
-
-Project CMU LocMess
 
 Project Assignment for Ubiquitous and Mobile Computing
 
